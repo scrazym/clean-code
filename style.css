@@ -58,6 +58,7 @@ body {
   width: 60px;
   font-family: Lato, sans-serif;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .edit:hover {
