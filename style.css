@@ -20,7 +20,7 @@ body {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .header {
     text-align: center;
@@ -40,7 +40,7 @@ body {
 
 #incomplete-tasks,
 #completed-tasks {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 /* li, h3 {
@@ -151,12 +151,12 @@ body {
 
 /* Edit Task */
 .hidden {
-  display:none
+  display: none
 }
 
 .px-224 {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 /* ul li.edit-mode label {
