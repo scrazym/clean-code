@@ -145,18 +145,18 @@ body {
 
 /* Completed */
 .complete {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .hidden {
-  display: none
+  display: none;
 }
 
 .px-224 {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 /* ul li.edit-mode label {
